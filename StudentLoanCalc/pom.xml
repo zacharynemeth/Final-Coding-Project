@@ -50,12 +50,6 @@
 	</properties>
 
 	<dependencies>
-
-		<dependency>
-			<groupId>cisc.edu</groupId>
-			<artifactId>SudokuBLL</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 			
 		<!-- Spring and Transactions -->
 		<dependency>
