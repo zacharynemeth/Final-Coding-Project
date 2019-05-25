@@ -20,7 +20,7 @@ public class LoanCalcViewController implements Initializable   {
 	
 
 
-	slds
+	
 	@FXML
 	private Label lblTotalPayemnts;
 	
