@@ -28,6 +28,6 @@ public double getInterest() {
 public double getBalance() {
 	return Balance;
 }
-public double getMyPmtNbr(){
+public double getMyPmtNbr() {
 	return PPMT;
 }

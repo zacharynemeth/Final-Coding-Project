@@ -11,7 +11,7 @@ import javafx.fxml.Initializable;
 import javafx.event.ActionEvent;
 import javafx.scene.control.DatePicker;
 
-public class LoanCalcViewController implements Initializable   {
+public class LoanCalcViewController implements Initializable  {
 
 	private StudentCalc SC = null;
 	

@@ -41,7 +41,7 @@ public double CalculateInterestPayment() {
 }
 
 
-public LinkedList<Payment>loanPayments() {
+public LinkedList<Payment>loanPayments(){
 	return loanPayments;
 }
 
