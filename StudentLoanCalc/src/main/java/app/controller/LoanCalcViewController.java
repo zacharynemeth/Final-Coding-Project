@@ -16,7 +16,7 @@ public class LoanCalcViewController implements Initializable  {
 	private StudentCalc SC = null;
 	
 	@FXML
-	private TextField LoanAmount;
+	private TextField LoanAmount ;
 	
 
 
